@@ -1,0 +1,182 @@
+[
+    {
+        "brand": "Dell",
+        "products": [
+            {
+                "id": "DELL1",
+                "brandId": 1,
+                "productName": "Dell Inspiron 15",
+                "graphicName": "dell_inspiron_15.jpg",
+                "costPrice": 500.00,
+                "msrp": 550.00,
+                "qtyOnHand": 100,
+                "qtyOnBackOrder": 20,
+                "description": "Dell Inspiron 15 is a versatile and powerful laptop with a 15.6-inch display, Intel Core i5 processor, 8GB RAM, and 256GB SSD."
+            },
+            {
+                "id": "DELL2",
+                "brandId": 1,
+                "productName": "Dell XPS 13",
+                "graphicName": "dell_xps_13.jpg",
+                "costPrice": 1000.00,
+                "msrp": 1100.00,
+                "qtyOnHand": 50,
+                "qtyOnBackOrder": 10,
+                "description": "Dell XPS 13 is a premium laptop featuring a 13.3-inch 4K UHD display, Intel Core i7 processor, 16GB RAM, and 512GB SSD."
+            },
+            {
+                "id": "DELL3",
+                "brandId": 1,
+                "productName": "Dell G5 15 Gaming",
+                "graphicName": "dell_g5_15.jpg",
+                "costPrice": 800.00,
+                "msrp": 850.00,
+                "qtyOnHand": 70,
+                "qtyOnBackOrder": 15,
+                "description": "Dell G5 15 Gaming laptop with a 15.6-inch FHD display, Intel Core i5 processor, 8GB RAM, 512GB SSD, and NVIDIA GTX 1650."
+            },
+            {
+                "id": "DELL4",
+                "brandId": 1,
+                "productName": "Dell Latitude 7410",
+                "graphicName": "dell_latitude_7410.jpg",
+                "costPrice": 1200.00,
+                "msrp": 1300.00,
+                "qtyOnHand": 30,
+                "qtyOnBackOrder": 5,
+                "description": "Dell Latitude 7410 business laptop with a 14-inch FHD display, Intel Core i7 processor, 16GB RAM, and 512GB SSD."
+            },
+            {
+                "id": "DELL5",
+                "brandId": 1,
+                "productName": "Dell Alienware M15",
+                "graphicName": "dell_alienware_m15.jpg",
+                "costPrice": 1500.00,
+                "msrp": 1600.00,
+                "qtyOnHand": 40,
+                "qtyOnBackOrder": 10,
+                "description": "Dell Alienware M15 gaming laptop with a 15.6-inch FHD display, Intel Core i7 processor, 16GB RAM, 1TB SSD, and NVIDIA RTX 2070."
+            }
+        ]
+    },
+    {
+        "brand": "HP",
+        "products": [
+            {
+                "id": "HP1",
+                "brandId": 2,
+                "productName": "HP Pavilion 14",
+                "graphicName": "hp_pavilion_14.jpg",
+                "costPrice": 600.00,
+                "msrp": 650.00,
+                "qtyOnHand": 80,
+                "qtyOnBackOrder": 15,
+                "description": "HP Pavilion 14 is a reliable laptop with a 14-inch display, Intel Core i5 processor, 8GB RAM, and 512GB SSD."
+            },
+            {
+                "id": "HP2",
+                "brandId": 2,
+                "productName": "HP Spectre x360",
+                "graphicName": "hp_spectre_x360.jpg",
+                "costPrice": 1200.00,
+                "msrp": 1300.00,
+                "qtyOnHand": 40,
+                "qtyOnBackOrder": 5,
+                "description": "HP Spectre x360 is a high-end convertible laptop with a 13.3-inch 4K UHD touch display, Intel Core i7 processor, 16GB RAM, and 1TB SSD."
+            },
+            {
+                "id": "HP3",
+                "brandId": 2,
+                "productName": "HP Envy 13",
+                "graphicName": "hp_envy_13.jpg",
+                "costPrice": 900.00,
+                "msrp": 950.00,
+                "qtyOnHand": 60,
+                "qtyOnBackOrder": 10,
+                "description": "HP Envy 13 is a sleek and powerful laptop with a 13.3-inch FHD display, Intel Core i7 processor, 8GB RAM, and 256GB SSD."
+            },
+            {
+                "id": "HP4",
+                "brandId": 2,
+                "productName": "HP Omen 15",
+                "graphicName": "hp_omen_15.jpg",
+                "costPrice": 1400.00,
+                "msrp": 1500.00,
+                "qtyOnHand": 30,
+                "qtyOnBackOrder": 5,
+                "description": "HP Omen 15 is a gaming laptop with a 15.6-inch FHD display, Intel Core i7 processor, 16GB RAM, 1TB SSD, and NVIDIA RTX 2060."
+            },
+            {
+                "id": "HP5",
+                "brandId": 2,
+                "productName": "HP Elite Dragonfly",
+                "graphicName": "hp_elite_dragonfly.jpg",
+                "costPrice": 1600.00,
+                "msrp": 1700.00,
+                "qtyOnHand": 20,
+                "qtyOnBackOrder": 5,
+                "description": "HP Elite Dragonfly is a premium business laptop with a 13.3-inch FHD touch display, Intel Core i5 processor, 16GB RAM, and 512GB SSD."
+            }
+        ]
+    },
+    {
+        "brand": "Apple",
+        "products": [
+            {
+                "id": "APPLE1",
+                "brandId": 3,
+                "productName": "Apple MacBook Air",
+                "graphicName": "macbook_air.jpg",
+                "costPrice": 900.00,
+                "msrp": 1000.00,
+                "qtyOnHand": 60,
+                "qtyOnBackOrder": 10,
+                "description": "Apple MacBook Air features a 13.3-inch Retina display, Apple M1 chip, 8GB RAM, and 256GB SSD, providing exceptional performance and battery life."
+            },
+            {
+                "id": "APPLE2",
+                "brandId": 3,
+                "productName": "Apple MacBook Pro",
+                "graphicName": "macbook_pro.jpg",
+                "costPrice": 1400.00,
+                "msrp": 1500.00,
+                "qtyOnHand": 30,
+                "qtyOnBackOrder": 5,
+                "description": "Apple MacBook Pro offers a 16-inch Retina display, Apple M1 Pro chip, 16GB RAM, and 512GB SSD for professionals requiring high performance."
+            },
+            {
+                "id": "APPLE3",
+                "brandId": 3,
+                "productName": "Apple MacBook Pro 13",
+                "graphicName": "macbook_pro_13.jpg",
+                "costPrice": 1300.00,
+                "msrp": 1400.00,
+                "qtyOnHand": 50,
+                "qtyOnBackOrder": 5,
+                "description": "Apple MacBook Pro 13 features a 13.3-inch Retina display, Apple M1 chip, 8GB RAM, and 256GB SSD, providing powerful performance in a compact form factor."
+            },
+            {
+                "id": "APPLE4",
+                "brandId": 3,
+                "productName": "Apple MacBook Pro 16",
+                "graphicName": "macbook_pro_16.jpg",
+                "costPrice": 2000.00,
+                "msrp": 2100.00,
+                "qtyOnHand": 20,
+                "qtyOnBackOrder": 5,
+                "description": "Apple MacBook Pro 16 features a 16-inch Retina display, Apple M1 Max chip, 32GB RAM, and 1TB SSD, ideal for demanding professional tasks."
+            },
+            {
+                "id": "APPLE5",
+                "brandId": 3,
+                "productName": "Apple MacBook",
+                "graphicName": "macbook.jpg",
+                "costPrice": 1000.00,
+                "msrp": 1100.00,
+                "qtyOnHand": 40,
+                "qtyOnBackOrder": 5,
+                "description": "Apple MacBook is a compact and lightweight laptop with a 12-inch Retina display, Intel Core M processor, 8GB RAM, and 256GB SSD."
+            }
+        ]
+    }
+]
